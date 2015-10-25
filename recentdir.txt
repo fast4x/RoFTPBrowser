@@ -1,0 +1,41 @@
+/spi_cg/2014/INPS/lotti
+/spi_cg/2014/INPS
+/spi_cg/2014
+/spi_cg
+/spi_tp/2014/INPS/elenchi/disdette
+/spi_tp/2014/INPS/elenchi
+/spi_tp/2014/INPS/lotti
+/spi_tp/2014/INPS
+/spi_en/2014/INPS/elenchi/annuale
+/spi_en/2014/INPS/elenchi
+/spi_en/2014/INPS/lotti
+/spi_en/2014/INPS
+/spi_en/2014
+/spi_en
+/spi_ag/2014/INPS/lotti
+/spi_ag/2014/INPS/elenchi/annuale
+/spi_ag/2014/INPS/elenchi
+/spi_tp/2013
+/spi_ag/2014/INPS/report
+/spi_ag/2014/INPS
+/spi_ag/2014
+/spi_ag
+/spi_tp/2014
+/spi_tp
+/etst/due
+/etst
+/FAST2/
+/Program Files/7-Zip
+/FAST2/RoFTPBrowser
+/FAST2
+/Program Files/Poedit/share/poedit/icons
+/Program Files/Poedit/share/poedit
+/Program Files/Poedit/share
+/Program Files/Poedit/
+/Program Files/Poedit/bin
+/Program Files/Poedit
+/Program Files/
+/Program Files/File comuni
+/Program Files
+/Programmi
+/
